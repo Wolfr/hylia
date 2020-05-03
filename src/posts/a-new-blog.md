@@ -6,3 +6,7 @@ tags:
 
 ---
 Hey, this is a blog post.
+
+## This is a heading.
+
+Yo!
